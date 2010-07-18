@@ -9,7 +9,8 @@ Source0:	http://www.libimobiledevice.org/downloads/%{name}-%{version}.tar.bz2
 # Source0-md5:	325d58abe182afa95187e6c55f2bba5f
 BuildRequires:	glib2-devel
 BuildRequires:	libfuse-devel
-BuildRequires:	libimobiledevice-devel
+BuildRequires:	libimobiledevice-devel >= 1.0.0
+BuildRequires:	pkgconfig
 Requires:	hal
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
