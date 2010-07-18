@@ -4,8 +4,8 @@ Version:	1.0.0
 Release:	1
 License:	GPL v2+
 Group:		Libraries
-URL:		http://matt.colyer.name/projects/iphone-linux/
-Source0:	http://cloud.github.com/downloads/MattColyer/ifuse/%{name}-%{version}.tar.bz2
+URL:		http://www.libimobiledevice.org/
+Source0:	http://www.libimobiledevice.org/downloads/%{name}-%{version}.tar.bz2
 # Source0-md5:	325d58abe182afa95187e6c55f2bba5f
 BuildRequires:	glib2-devel
 BuildRequires:	libfuse-devel
