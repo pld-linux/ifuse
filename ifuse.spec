@@ -1,7 +1,7 @@
 Summary:	Mount Apple iPhone and iPod touch devices
 Name:		ifuse
 Version:	1.1.1
-Release:	2
+Release:	3
 License:	GPL v2+
 Group:		Libraries
 URL:		http://www.libimobiledevice.org/
