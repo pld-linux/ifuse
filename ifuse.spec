@@ -2,7 +2,7 @@ Summary:	Mount Apple iPhone and iPod touch devices
 Summary(pl.UTF-8):	Montowanie urządzeń Apple iPhone i iPod touch
 Name:		ifuse
 Version:	1.1.4
-Release:	1
+Release:	2
 License:	LGPL v2.1+
 Group:		Libraries
 #Source0Download: https://libimobiledevice.org/
